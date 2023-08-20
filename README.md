@@ -1,2 +1,2 @@
-## Linklist
+## Data-Structure
 
