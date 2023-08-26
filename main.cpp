@@ -22,6 +22,5 @@ int main(){
     trial.addElementToLast(8);
     trial.deleteElementFromIndex(1);
     trial.travaseLinkList();
-
     return 0;
 }
