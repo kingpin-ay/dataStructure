@@ -1,1 +1,8 @@
+./*/a.out
+./*/output
+./*/*.o
+
+
 a.out
+output
+*.o
