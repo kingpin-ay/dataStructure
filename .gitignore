@@ -1,7 +1,7 @@
 ./*/a.out
 ./*/output
 ./*/*.o
-
+./*/*.exe
 
 a.out
 output
